@@ -1,4 +1,7 @@
-# Solving 2048 intelligently using Minimax Algorithm #
+# Build a Game-playing AI Agent
+
+![Example game of isolation](viz.gif)
+
 
 ## Introduction ##
 
